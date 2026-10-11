@@ -1,21 +1,14 @@
-ALL TRACKS FOUND (159)
+ALL TRACKS FOUND (141)
 
-2 Unlimited - No Limit
 Abo Abo - Aether
 Adansonia - Extract & Eject
 Alex Dolby - Sintesi
-Alice Deejay - Better Off Alone
 Alkemia - Pyr
-Alter Ego - Dance If You Cannot (feat. Daisy Dee) [Euromix by Two Men]
 Altinbas - Anaphora
 André Picar - It's A Rainy Day (Extended Mix)
 Area127 - Somersloop
-Armin van Buuren - Sonic Samba (Rising Star Extended Remix)
 AYIM - Dre'kalin (Flacs Remix)
-Ayla - Ayla (DJ Taucher Remix)
-Bellini - Samba de Janeiro (Vanity Frontroom Remix)
 Bio Babas & Seggae - Doc's Lab
-Bountyhunter - Doh
 Brahim Hnine - Samt el Sout
 Buttechno - Trancer
 Carlim Sakoo - Goa Head
@@ -37,7 +30,6 @@ Disguised, FANK & Vault Records - The Arythmics
 DJ Aligator - The Whistle Song
 DJ Bencze - Córónita
 DJ Gerard - Lost In Mind (Extended Mix)
-DJ Jean - The Launch (Yomanda Mix)
 DJ Jose & G-Spott - House of Justice
 DJ Misjah & DJ Tim - Access (Ky Jelly Babies Mix)
 DJKE - Die Ritch (Kasper Remix)
@@ -51,7 +43,6 @@ Enko - Arpinette (feat. Chôkô)
 Evigt Mörker - Två portar
 Fcukers - I Like It Like That
 Gidra - Soulseek
-Gigi D'Agostino - Bla Bla Bla
 Gre Okuma - Eclipse
 Gre Okuma - Sahar Dive
 Gruppa Komissar - Дрянь
@@ -60,7 +51,6 @@ Hashub - Wiszcze
 Henny-M - Stay With Me (Groove-t Remix)
 Innerworld - Surge
 Insane teknology - Space Invaders
-Interplanetary Criminal - Gunman (feat. Riko Dan)
 Ipotocaticac - Technocrack
 Jack Ward - Respex
 James Gordon Anderson - Spreading Sun
@@ -82,13 +72,11 @@ Korl - Moonboy
 Korl - Pipapo
 KUSS & BCCO - Nocturnal Contrast
 La Luna - When the Morning Comes (Space Cadets Mix)
-Layo & Bushwacka! - Love Story (Bushwacka! Remix)
 Linkan Ray - Flight to Tokyo (Synthapella)
 Lulu Rouge - Ninna Nanna (feat. Trentemøller & Alice Carreri)
 Lunecell - Lords of the Kobol
 Lökiiy - Buckle circuit (tribe mental)
 Mac Declos - Unfinished Murder
-Marie Vaunt - That Acid
 MattDemon - Secret Ceremony
 Max Duret - Landing on Chusuk
 Mega 'Lo Mania - Circusclown (Extended Version)
@@ -122,7 +110,6 @@ Prismatik - Microdrive (feat. B3N)
 Prizefight & Trustee - Basilisk
 Public Domain - Operation Blade 2006 (Original 12")
 Ramirez - Terra
-Rank 1 - Airwave
 Rank 1 - Such is Life
 Red Carpet - Alright (Brad Carter Remix)
 Red Rooms - Blind Spot
@@ -136,18 +123,14 @@ Slip Hypnotic - Sweet Sweat
 Solar System - City of Angels (Extended Club Mix)
 Solma - Fungal Network
 Sonic Shaman - Innerworld
-southstar - Miss You
 Spekki Webu - Infinity
 Spekki Webu - Spectrum Analyzer
 Sun in Aquarius - Enigmatic Vibrations
-System F - Out of the Blue
 Szoliver - Return of Zalthor
 Szoliver - Veltrik
 T-Factor & Criostasis - Overcharge (Dirty Harry & Costa Pantazis Remix)
 Temper - Work That Body (Intrique Hardclub Mix)
-The Thrillseekers - Synaesthesia (En-Motion Remix)
 Tipota - Warped Sequence
-Tiësto - Adagio for Strings
 Torres De Lara - De Barrio
 Underworld - Born Slippy (Nuxx)
 Van Der Wiese - Human Factor (feat. Maddike)
@@ -158,29 +141,50 @@ Victor Vera - Pressure (Daniel Sbert Remix)
 Vision Selektor // V.M. - 4-Ho Met (Deliriant Techno Dub M1x)
 Xipe Totecs & Shred'er - Morning Pétanque
 ZadernaS - Anka
-Zombie Nation - Kernkraft 400
 
 
-UNCERTAIN (21)
+UNCERTAIN (20)
 
-Armin van Buuren & SACHA - Everlasting (Extended Mix)
+Alice Deejay - Better Off Alone
 Atlantis & Avatar - Fiji (Lange Extended Mix) [feat. Miriam Stockley]
-Cygnus X - The Orange Theme
+Bellini - Samba de Janeiro (Vanity Frontroom Remix)
 Daisuke Tokita - Return To the Natural State
 Elevnl - March
-Hi-Gate - Pitchin' (In Every Direction)
+Interplanetary Criminal - Gunman (feat. Riko Dan)
 Jason Nova - Inspiration 2009 (Club Mix)
 KN - Mysterious Pills
-Los Felinos - Yo Quiero Quebrarte
 Makebo & Volen Sentir - Alchemist
-Mauro Picotto - Komodo (Megavoices Claxixx Mix)
 Noirway - Far Away
 Onda del Futuro - Terra
 Orion - Dust
-Safri Duo - Played-A-Live (The Bongo Song)
 Samuel Voigt - Quasar
 Sash! - Mysterious Times (feat. Tina Cousins)
 Sioc - Cryovatum
+southstar - Miss You
 Special Request, ODF & Tim Reaper - Pull Up
 Spidavein - Eclipse
 Tove Lo & Fcukers - I'm your girl right? (Fcukers Remix)
+Zombie Nation - Kernkraft 400
+
+
+REMOVED – likely Shazam false positives (mainstream + weak evidence) (19)
+
+2 Unlimited - No Limit
+Alter Ego - Dance If You Cannot (feat. Daisy Dee) [Euromix by Two Men]
+Armin van Buuren & SACHA - Everlasting (Extended Mix)
+Armin van Buuren - Sonic Samba (Rising Star Extended Remix)
+Ayla - Ayla (DJ Taucher Remix)
+Bountyhunter - Doh
+Cygnus X - The Orange Theme
+DJ Jean - The Launch (Yomanda Mix)
+Gigi D'Agostino - Bla Bla Bla
+Hi-Gate - Pitchin' (In Every Direction)
+Layo & Bushwacka! - Love Story (Bushwacka! Remix)
+Los Felinos - Yo Quiero Quebrarte
+Marie Vaunt - That Acid
+Mauro Picotto - Komodo (Megavoices Claxixx Mix)
+Rank 1 - Airwave
+Safri Duo - Played-A-Live (The Bongo Song)
+System F - Out of the Blue
+The Thrillseekers - Synaesthesia (En-Motion Remix)
+Tiësto - Adagio for Strings

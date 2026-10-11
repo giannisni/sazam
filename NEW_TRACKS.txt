@@ -1,16 +1,12 @@
-NEW TRACKS – Marilao (MUSA 2nd hour) + Tadan (YAGA'26) (36)
+NEW TRACKS – Marilao (MUSA 2nd hour) + Tadan (YAGA'26) (26)
 
-Alter Ego - Dance If You Cannot (feat. Daisy Dee) [Euromix by Two Men]
 André Picar - It's A Rainy Day (Extended Mix)
-Armin van Buuren - Sonic Samba (Rising Star Extended Remix)
-Ayla - Ayla (DJ Taucher Remix)
 CKH - The World is Ours (Remix)
 Cygnus X - Superstring (Rank 1 Remix)
 Darude - Sandstorm
 Disguised, FANK & Vault Records - The Arythmics
 DJ Aligator - The Whistle Song
 DJ Gerard - Lost In Mind (Extended Mix)
-DJ Jean - The Launch (Yomanda Mix)
 DJ Jose & G-Spott - House of Justice
 DJKE - Die Ritch (Kasper Remix)
 Empire Of The Sun & southstar - We Are The People (southstar Remix)
@@ -23,7 +19,6 @@ Joy Orbison - flight fm
 Klaudia Gawlas - Dark Space
 KUSS & BCCO - Nocturnal Contrast
 Mac Declos - Unfinished Murder
-Marie Vaunt - That Acid
 Mega 'Lo Mania - Circusclown (Extended Version)
 MZR - 197cte2
 No Valentia - Miss Perez
@@ -31,15 +26,24 @@ Paffendorf & The Real Booty Babes - Where Are You 2007 (Club Mix)
 Rank 1 - Such is Life
 S.U.N. Project - Statistic (Atmos Ultra Remix)
 Solar System - City of Angels (Extended Club Mix)
-southstar - Miss You
-System F - Out of the Blue
-The Thrillseekers - Synaesthesia (En-Motion Remix)
-Tiësto - Adagio for Strings
-Zombie Nation - Kernkraft 400
 
 
 NEW UNCERTAIN (3)
 
-Armin van Buuren & SACHA - Everlasting (Extended Mix)
 Atlantis & Avatar - Fiji (Lange Extended Mix) [feat. Miriam Stockley]
+southstar - Miss You
+Zombie Nation - Kernkraft 400
+
+
+REMOVED – likely Shazam false positives (10)
+
+Alter Ego - Dance If You Cannot (feat. Daisy Dee) [Euromix by Two Men]
+Armin van Buuren & SACHA - Everlasting (Extended Mix)
+Armin van Buuren - Sonic Samba (Rising Star Extended Remix)
+Ayla - Ayla (DJ Taucher Remix)
+DJ Jean - The Launch (Yomanda Mix)
 Los Felinos - Yo Quiero Quebrarte
+Marie Vaunt - That Acid
+System F - Out of the Blue
+The Thrillseekers - Synaesthesia (En-Motion Remix)
+Tiësto - Adagio for Strings
